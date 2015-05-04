@@ -30,6 +30,9 @@ func main() {
 	source.Arrays()
 	fmt.Println("")
 
+	source.Slices()
+	fmt.Println("")
+
 	source.Maps()
 	fmt.Println("")
 
