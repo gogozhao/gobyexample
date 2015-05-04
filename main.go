@@ -69,4 +69,7 @@ func main() {
 	fmt.Println("fact", source.Fact(7))
 	fmt.Println("")
 
+	source.Pointer()
+	fmt.Println("")
+
 }
