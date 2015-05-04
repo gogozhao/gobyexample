@@ -24,6 +24,9 @@ func main() {
 	source.Ifelse()
 	fmt.Println("")
 
+	source.Swiches()
+	fmt.Println("")
+
 	source.Maps()
 	fmt.Println("")
 
