@@ -27,6 +27,9 @@ func main() {
 	source.Swiches()
 	fmt.Println("")
 
+	source.Arrays()
+	fmt.Println("")
+
 	source.Maps()
 	fmt.Println("")
 
