@@ -5,6 +5,10 @@ import (
 )
 
 func main() {
+
+	source.HelloWorld()
+	fmt.Println("")
+
 	source.Maps()
 	fmt.Println("")
 
