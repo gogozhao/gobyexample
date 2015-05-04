@@ -18,6 +18,9 @@ func main() {
 	source.Constants()
 	fmt.Println("")
 
+	source.Fors()
+	fmt.Println("")
+
 	source.Maps()
 	fmt.Println("")
 
