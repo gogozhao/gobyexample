@@ -9,6 +9,9 @@ func main() {
 	source.HelloWorld()
 	fmt.Println("")
 
+	source.Values()
+	fmt.Println("")
+
 	source.Maps()
 	fmt.Println("")
 
