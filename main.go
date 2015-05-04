@@ -12,6 +12,9 @@ func main() {
 	source.Values()
 	fmt.Println("")
 
+	source.Variables()
+	fmt.Println("")
+
 	source.Maps()
 	fmt.Println("")
 
