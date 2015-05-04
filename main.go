@@ -21,6 +21,9 @@ func main() {
 	source.Fors()
 	fmt.Println("")
 
+	source.Ifelse()
+	fmt.Println("")
+
 	source.Maps()
 	fmt.Println("")
 
