@@ -81,4 +81,7 @@ func main() {
 	source.Errors()
 	fmt.Println("")
 
+	source.Goroutines()
+	fmt.Println("")
+
 }
