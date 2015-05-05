@@ -1,2 +1,2 @@
 # gobyexample
-go example code from https://gobyexample.com
+go example code from [gobyexample](https://gobyexample.com)
