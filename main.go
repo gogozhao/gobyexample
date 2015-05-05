@@ -72,4 +72,7 @@ func main() {
 	source.Pointer()
 	fmt.Println("")
 
+	source.Structs()
+	fmt.Println("")
+
 }
