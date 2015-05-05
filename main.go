@@ -78,4 +78,7 @@ func main() {
 	source.Interfaces()
 	fmt.Println("")
 
+	source.Errors()
+	fmt.Println("")
+
 }
