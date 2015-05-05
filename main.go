@@ -75,4 +75,7 @@ func main() {
 	source.Structs()
 	fmt.Println("")
 
+	source.Interfaces()
+	fmt.Println("")
+
 }
