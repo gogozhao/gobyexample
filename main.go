@@ -84,4 +84,7 @@ func main() {
 	source.Goroutines()
 	fmt.Println("")
 
+	source.Channels()
+	fmt.Println("")
+
 }
