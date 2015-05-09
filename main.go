@@ -87,4 +87,7 @@ func main() {
 	source.Channels()
 	fmt.Println("")
 
+	source.Selects()
+	fmt.Println("")
+
 }
