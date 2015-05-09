@@ -93,4 +93,7 @@ func main() {
 	source.Timers()
 	fmt.Println("")
 
+	source.Tickers()
+	fmt.Println("")
+
 }
