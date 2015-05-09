@@ -90,4 +90,7 @@ func main() {
 	source.Selects()
 	fmt.Println("")
 
+	source.Timers()
+	fmt.Println("")
+
 }
