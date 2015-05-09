@@ -96,4 +96,7 @@ func main() {
 	source.Tickers()
 	fmt.Println("")
 
+	source.Workerpools()
+	fmt.Println("")
+
 }
