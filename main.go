@@ -102,4 +102,7 @@ func main() {
 	source.RateLimitings()
 	fmt.Println("")
 
+	source.Mutexes()
+	fmt.Println("")
+
 }
