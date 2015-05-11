@@ -105,4 +105,7 @@ func main() {
 	source.Mutexes()
 	fmt.Println("")
 
+	source.Sortings()
+	fmt.Println("")
+
 }
