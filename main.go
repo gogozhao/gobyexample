@@ -108,4 +108,7 @@ func main() {
 	source.Sortings()
 	fmt.Println("")
 
+	source.Panics()
+	fmt.Println("")
+
 }
