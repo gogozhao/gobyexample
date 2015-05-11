@@ -117,4 +117,7 @@ func main() {
 	source.Collections()
 	fmt.Println("")
 
+	source.StringFunc()
+	fmt.Println("")
+
 }
