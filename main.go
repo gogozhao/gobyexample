@@ -111,4 +111,7 @@ func main() {
 	source.Panics()
 	fmt.Println("")
 
+	source.Defers()
+	fmt.Println("")
+
 }
