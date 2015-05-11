@@ -99,4 +99,7 @@ func main() {
 	source.Workerpools()
 	fmt.Println("")
 
+	source.RateLimitings()
+	fmt.Println("")
+
 }
