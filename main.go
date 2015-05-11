@@ -114,4 +114,7 @@ func main() {
 	source.Defers()
 	fmt.Println("")
 
+	source.Collections()
+	fmt.Println("")
+
 }
